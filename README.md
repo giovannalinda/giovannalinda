@@ -1,9 +1,9 @@
-### Fala Devs! Como vão?👋
+### Fala Devs! <3 
 
 <!--
 **giovannalinda/giovannalinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-17 anos | Aspirante a Dev Front end
+17 anos | Front End
 
 Ando me aventurando na programação com layouts e cores.
 
