@@ -1,16 +1,14 @@
-### Hi there 👋
+### Fala Devs! 👋
 
 <!--
 **giovannalinda/giovannalinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+17 anos | Aspirante  a Dev Front end
+
+Ando me aventurando nas telas com layouts e cores
+
+### Onde me encontrar?
+
+Linkedin: https://www.linkedin.com/in/giovanna-linda-752960205/
+Instagram: https://www.instagram.com/giovanna.code/?hl=pt-br
+Email: eugiovannasouza@gmail.com
