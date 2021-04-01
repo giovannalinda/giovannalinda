@@ -5,8 +5,7 @@
 -->
 17 anos | Front End
 
-atualmente caí de cabeça no desenvolvimento de layouts. Gosto de desenvolver designs criativos que chamem a atenção e despertam  a curiosidade
-
+atualmente caí de cabeça no desenvolvimento de layouts. Gosto de desenvolver designs criativos que chamem a atenção e  despertem a curiosidade
 ### Onde me encontrar?
 
 Linkedin: https://www.linkedin.com/in/giovanna-linda-752960205/
