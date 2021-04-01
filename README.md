@@ -5,7 +5,7 @@
 -->
 17 anos | Front End
 
-Ando me aventurando na programação com layouts e cores.
+atualmente caí de cabeça no desenvolvimento de layouts. Gosto de desenvolver designs criativos que chamem a atenção e despertam  a curiosidade
 
 ### Onde me encontrar?
 
