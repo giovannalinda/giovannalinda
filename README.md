@@ -7,8 +7,6 @@
 
 Encantada pelo desenvolvimento de layouts. Gosto de desenvolver designs criativos que chamem a atenção e despertem a curiosidade
 
-                                                                                                                           ![laptop-isometrico-em-branco_115560-124-removebg-preview](https://user-images.githubusercontent.com/71105672/115977082-d125a400-a54a-11eb-90a5-f1067b3f4f42.png)
-
 ### Onde me encontrar?
 
 Linkedin: https://www.linkedin.com/in/giovanna-linda-752960205/
