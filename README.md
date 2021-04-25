@@ -1,3 +1,4 @@
+![laptop-isometrico-em-branco_115560-124-removebg-preview](https://user-images.githubusercontent.com/71105672/115977104-1fd33e00-a54b-11eb-8dbc-8c7d9bb74c5b.png)
 ### Fala Devs! ;D 
 
 <!--
