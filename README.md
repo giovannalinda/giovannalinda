@@ -10,11 +10,11 @@ Sou uma pessoa curiosa e motivada que adora aprender, dar outras perspectivas pa
 
 ### Onde me encontrar?
 
-Linkedin: https://www.linkedin.com/in/giovanna-linda-752960205/
+Linkedin | https://www.linkedin.com/in/giovanna-linda-752960205/
 
-Instagram: https://www.instagram.com/giovanna.code/?hl=pt-br
+Instagram | https://www.instagram.com/giovanna.code/?hl=pt-br
 
-Email: eugiovannasouza@gmail.com
+Email | eugiovannasouza@gmail.com
 
-99Freelas: https://www.99freelas.com.br/user/giovannalinda
+99Freelas | https://www.99freelas.com.br/user/giovannalinda
 
