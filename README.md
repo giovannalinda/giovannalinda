@@ -6,8 +6,6 @@
 -->
 ### Sobre mim
 
-Web Design/Front End
-
 Sou uma pessoa curiosa e motivada que adora aprender, dar outras perspectivas para as telas e tirar ideias do papel. Meu objetivo é ser sempre melhor do que no dia anterior e aprendizado continuo é a minha base. Quero ter a oportunidade de fazer parte de algo que possa me permitir crescer tanto pessoal quanto profissional e poder criar soluções que façam a diferença na vida das pessoas.
 
 ### Onde me encontrar?
