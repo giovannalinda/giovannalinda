@@ -1,10 +1,10 @@
 
-### Fala Devs! ;D 
+## Fala Devs! ;D 
 
 <!--
 **giovannalinda/giovannalinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## Sobre mim
+### Sobre mim
 
 Web Design/Front End
 
