@@ -16,5 +16,7 @@ Instagram | https://www.instagram.com/giovanna.code/?hl=pt-br
 
 Email | eugiovannasouza@gmail.com
 
-99Freelas | https://www.99freelas.com.br/user/giovannalinda
+99Freelas | https://www.99freelas.com.br/user/giovannalinda 
+
+Dribbble | https://dribbble.com/GiovannaLinda
 
