@@ -5,5 +5,4 @@
 - Linkedin **https://www.linkedin.com/in/giovanna-linda-752960205/**
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=giovannalinda&show_icons=true&locale=en&layout=compact" alt = "giovannalinda" /> </p>
-
-<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=giovannalinda&show_icons=true&locale=en" alt = "giovannalinda" /> </p>
+<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=giovannalinda&show_icons=true&locale=en" alt = "giovannalinda" /> </p>
