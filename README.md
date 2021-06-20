@@ -1,22 +1,19 @@
+<h1 align = "center"> Oii 👋, Eu sou a Giovanna! </h1>
+<h3 align = "center"> Aspirante a Frontend Developer </h3>
 
-## Fala Devs! ;D 
+<p align = "left"> <img src = "https : //komarev.com/ghpvc/? username = giovannalinda & label = Perfil% 20views & color = 0e75b6 & style = flat "alt =" giovannalinda "/> </p>
 
-<!--
-**giovannalinda/giovannalinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### Sobre mim
+- 📫 Fale comigo **eugiovannasouza@gmail.com**
 
-Sou uma pessoa curiosa e motivada que adora aprender, dar outras perspectivas para as telas e tirar ideias do papel. Meu objetivo é ser sempre melhor do que no dia anterior e aprendizado continuo é a minha base. Quero ter a oportunidade de fazer parte de algo que possa me permitir crescer tanto pessoal quanto profissional e poder criar soluções que façam a diferença na vida das pessoas.
+<h3 align = "left"> Conecte-se a mim: </h3>
+<p align = "left">
+<a href = "https://linkedin.com/in/https://www.linkedin.com/in/giovanna-linda -752960205 / "target =" blank "> <img align =" center "src =" https: //raw.githubusercontent.com / rahuldkjain / github-profile-readme-generator / master / src / images / icons / Social / linked-in-alt.svg "alt =" https://www.linkedin.com/in/giovanna-linda-752960205 / "altura =" 30 "largura =" 40 "/> </a>
+<a href="https://dribbble.com/https://dribbble.com/giovannalinda" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg "alt =" https://dribbble.com/giovannalinda "height =" 30 "width =" 40 "/> </ a>
+</p>
 
-### Onde me encontrar?
+<h3 align = "left"> Idiomas e ferramentas: </h3>
+<p align = "left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/css3/css3-original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href =" https://www.figma.com / "target =" _ blank "> <img src =" https://www.vectorlogo.zone/logos/figma/figma-icon.svg "alt =" figma "width =" 40 "height =" 40 "/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons /html5/html5-original-wordmark.svg "alt ="html5 "width =" 40 "height =" 40 "/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "40" height = "40" /> </ a > <a href="https://reactjs.org/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original- wordmark.svg "alt =" react "width =" 40 "height =" 40 "/> </a> </p>a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master /icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> <a href =" https://reactjs.org/ "target =" _ em branco "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "alt =" react "width =" 40 "height =" 40 " /> </a> </p>a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master /icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> <a href =" https://reactjs.org/ "target =" _ em branco "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "alt =" react "width =" 40 "height =" 40 " /> </a> </p>com / devicons / devicon / master / icons / javascript / javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> <a href =" https: // reactjs. org / "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "alt =" react "width =" 40 "altura =" 40 "/> </a> </p>com / devicons / devicon / master / icons / javascript / javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> <a href =" https: // reactjs. org / "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "alt =" react "width =" 40 "altura =" 40 "/> </a> </p>alt = "react" width = "40" height = "40" /> </a> </p>alt = "react" width = "40" height = "40" /> </a> </p>
 
-Linkedin | https://www.linkedin.com/in/giovanna-linda-752960205/
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=giovannalinda&show_icons=true&locale=en&layout=compact" alt = "giovannalinda" /> </p>
 
-Instagram | https://www.instagram.com/giovanna.code/?hl=pt-br
-
-Email | eugiovannasouza@gmail.com
-
-99Freelas | https://www.99freelas.com.br/user/giovannalinda 
-
-Dribbble | https://dribbble.com/GiovannaLinda
-
+<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=giovannalinda&show_icons=true&locale=en" alt = "giovannalinda" /> </p>
