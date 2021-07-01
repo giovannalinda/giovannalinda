@@ -5,7 +5,7 @@
 
 Email - **eugiovannasouza@gmail.com**
 
-Linkedin - **https://www.linkedin.com/in/giovanna-linda-**
+Linkedin - **https://www.linkedin.com/in/giovanna-linda-752960205/**
 
 Dribbble - **https://dribbble.com/GiovannaLinda**
 
