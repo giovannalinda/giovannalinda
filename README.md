@@ -1,6 +1,8 @@
 <h1 align = "center"> Oii 🙃, Eu sou a Giovanna! </h1>
 <h3 align = "center"> Front End developer </h3>
 
+<h6>Você pode me encontrar por aqui!</h6>
+
 🙃 Email **eugiovannasouza@gmail.com**
 
 🙃 Linkedin **https://www.linkedin.com/in/giovanna-linda-**
