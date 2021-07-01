@@ -9,6 +9,6 @@ Linkedin - **https://www.linkedin.com/in/giovanna-linda-**
 
 Dribbble - **https://dribbble.com/GiovannaLinda**
 
-<p align = "center" background = "black"> <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=giovannalinda&show_icons=true&locale=en&layout=compact" alt = "giovannalinda"/ > </p>
+<p align = "center" background-color = "black"> <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=giovannalinda&show_icons=true&locale=en&layout=compact" alt = "giovannalinda"/ > </p>
 
 
