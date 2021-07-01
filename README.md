@@ -3,12 +3,12 @@
 
 <h4>Você pode me encontrar por aqui!</h4>
 
-Email **eugiovannasouza@gmail.com**
+Email - **eugiovannasouza@gmail.com**
 
-Linkedin **https://www.linkedin.com/in/giovanna-linda-**
+Linkedin - **https://www.linkedin.com/in/giovanna-linda-**
 
-Dribbble  **https://dribbble.com/GiovannaLinda**
+Dribbble - **https://dribbble.com/GiovannaLinda**
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=giovannalinda&show_icons=true&locale=en&layout=compact" alt = "giovannalinda"/ > </p>
+<p align = "center"> <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=giovannalinda&show_icons=true&locale=en&layout=compact" alt = "giovannalinda"/ > </p>
 
 
