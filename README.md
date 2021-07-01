@@ -1,5 +1,5 @@
 <h1 align = "center"> Oii 🙃, Eu sou a Giovanna! </h1>
-<h3 align = "center"> Frontend </h3>
+<h3 align = "center"> Front end developer </h3>
 
 🙃 Email **eugiovannasouza@gmail.com**
 
