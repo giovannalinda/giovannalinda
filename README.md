@@ -1,13 +1,13 @@
-<h1 align = "center"> Oii 🙃, Eu sou a Giovanna! </h1>
+<h1 align = "center"> Oii 🙃, eu sou a Giovanna! </h1>
 <h3 align = "center"> Front End developer </h3>
 
-<h4 background = "purple">Você pode me encontrar por aqui!</h4>
+<h4>Você pode me encontrar por aqui!</h4>
 
-🙃 Email **eugiovannasouza@gmail.com**
+Email **eugiovannasouza@gmail.com**
 
-🙃 Linkedin **https://www.linkedin.com/in/giovanna-linda-**
+Linkedin **https://www.linkedin.com/in/giovanna-linda-**
 
-🙃 Dribbble  **https://dribbble.com/GiovannaLinda**
+Dribbble  **https://dribbble.com/GiovannaLinda**
 
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=giovannalinda&show_icons=true&locale=en&layout=compact" alt = "giovannalinda"/ > </p>
 
