@@ -1,5 +1,5 @@
 <h1 align = "center"> Oii 🙃, eu sou a Giovanna! </h1>
-<h3 align = "center"> Front End developer </h3>
+<h3 align = "center"> Estudante de Desenvolvimento Front end </h3>
 
 <h4>Você pode me encontrar por aqui!</h4>
 
