@@ -3,9 +3,9 @@
 
 <h4>Você pode me encontrar por aqui!</h4>
 
-📫 **eugiovannasouza@gmail.com**
-
-🔗 **https://www.linkedin.com/in/giovanna-linda-752960205/**
+<div>
+  <a href="eugiovannasouza@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <h4>Sobre mim 🙃</h4>
 
