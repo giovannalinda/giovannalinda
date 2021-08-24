@@ -1,4 +1,4 @@
-<h1> Oiê, eu sou a Giovanna! </h1>
+<h1> Oiê, eu sou a Giovanna! 🙃</h1>
 <h3> Estudante de Desenvolvimento Front end </h3>
 
 <h4>Você pode me encontrar por aqui!</h4>
