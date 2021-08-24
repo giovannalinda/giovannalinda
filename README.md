@@ -1,7 +1,8 @@
-<h1> Oiê, eu sou a Giovanna! 💻</h1>
-<h3> Estudante de Desenvolvimento Front end </h3>
+<h1> Hey, I'm Giovanna! 💻</h1>
+<h3> Front end development student </h3>
 
-<h4>Você pode me encontrar por aqui!</h4>
+<h4>
+You can find me around here!</h4>
 
 <div>
   <a href="mailto:eugiovannasouza@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -9,7 +10,7 @@
   </a>
 </div>
 
-<h4>Sobre mim 🙃</h4>
+<h4>About me 🙃</h4>
 
 ``` javascript
 const Giovanna = {
