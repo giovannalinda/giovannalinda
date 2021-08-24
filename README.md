@@ -4,6 +4,7 @@
 <h4>Você pode me encontrar por aqui!</h4>
 
 Email - **eugiovannasouza@gmail.com**
+
 Linkedin - **https://www.linkedin.com/in/giovanna-linda-752960205/**
 
 
