@@ -9,15 +9,15 @@ Linkedin - **https://www.linkedin.com/in/giovanna-linda-752960205/**
 
 <h4>Sobremim</h4>
 ```javascript
+
+
+```
 const Giovanna = {
   code: ['HTML', 'CSS', 'JavaScript'],
   location: 'São Paulo - Brasil',
   learning: ['JavaScript', 'ReactJS', 'TypeScript']
   hobbies: ['Gaming', 'Cooking', 'Reading', 'Watch animations']
 };
-
-```
-
 
 
 
