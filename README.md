@@ -26,7 +26,7 @@ You can find me around here!</h4>
 const Giovanna = {
   code: ['HTML', 'CSS', 'JavaScript'],
   location: 'São Paulo - Brasil',
-  age: 17,
+  age: 18,
   learning: ['JavaScript', 'ReactJS', 'TypeScript'],
   hobbies: ['Gaming', 'Cooking', 'Reading', 'Watch animations']
 };
