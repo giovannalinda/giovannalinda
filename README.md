@@ -1,8 +1,7 @@
-<h1> Hey, I'm Giovanna! 💻</h1>
-<h3> Front end development Jr.</h3>
+# Hey, I'm Giovanna!:purple_heart:
+## Front end Developer Jr.
 
-<h4>
-You can find me around here!</h4>
+### 💌 You can find me around here!
 
 <div>
   <a href="mailto:eugiovannasouza@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -10,7 +9,7 @@ You can find me around here!</h4>
   </a>
 </div>
 
-<h4> 🖥️ Technologies I study</h4>
+### 🖥️ Technologies I study
 <div>
   <a href="" target"_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   <a href="" target"_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
@@ -21,13 +20,13 @@ You can find me around here!</h4>
 </div>
 
 
-<h4>About me 🙃</h4>
+### 🚀 About me 
 
 ``` javascript
 const Giovanna = {
-  code: ['HTML', 'CSS', 'JavaScript', 'ReactJS'],
-  location: 'São Paulo - Brasil',
   age: 18,
+  location: 'São Paulo - Brasil',
+  code: ['HTML', 'CSS', 'JavaScript'],
   learning: ['ReactJS', 'TypeScript', UI],
   hobbies: ['Gaming', 'Cooking', 'Reading', 'Watch animations']
 };
