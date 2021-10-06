@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-<em>Todos os nossos sonhos podem se realizar, se tivermos a coragem de persegui-los.</em> - Walt Disney
+<em>Nossos sonhos podem se realizar, se tivermos a coragem de persegui-los.</em> - Walt Disney
 </p>
