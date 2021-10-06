@@ -25,3 +25,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=6F2BFF&link=https://www.linkedin.com/in/giovannalinda"/>
   </a>
 </p>
+
+<p align="center">
+<em>Todos os nossos sonhos podem se realizar, se tivermos a coragem de persegui-los.</em> - Walt Disney
+</p>
