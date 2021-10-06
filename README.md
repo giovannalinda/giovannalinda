@@ -1,32 +1,27 @@
-# Hey, I'm Giovanna!:purple_heart:
-## Front end Developer Jr.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### 💌 You can find me around here!
+<p align="left"> 
+  :purple_heart: Hi, my name is Giovanna. I'm <strong>Front end Developer Jr.</strong> and I'm looking to improve on <strong>UI Design</strong>.
+</p>
 
-<div>
-  <a href="mailto:eugiovannasouza@gmail.com" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovannalinda" target"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<p align="left">
+  :computer: Technologies I study: <strong>HTML, CSS, JavaScript, ReactJS, Styled Components and TypeScript.</strong>
+</p>
+
+<p align="left">
+  :hammer_and_wrench: Tools: <strong>VSCode, Figma, Vercel, Git and GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 If you want to chat with me, send me a message.
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/_gripada" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=6F2BFF&link=https://www.instagram.com/_gripada/"/>
   </a>
-</div>
-
-### 🖥️ Technologies I study
-<div>
-  <a href="" target"_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-  <a href="" target"_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-  <a href="" target"_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
-  <a href="" target"_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
-  <a href="" target"_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
-  <a href="" target"_blank"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" target="_blank"></a>   
-</div>
-
-
-### 🚀 About me 
-
-``` javascript
-const Giovanna = {
-  age: 18,
-  location: 'São Paulo - Brasil',
-  code: ['HTML', 'CSS', 'JavaScript'],
-  learning: ['ReactJS', 'TypeScript', UI],
-  hobbies: ['Gaming', 'Cooking', 'Reading', 'Watch animations']
-};
+  
+  <a href="https://www.linkedin.com/in/giovannalinda" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=6F2BFF&link=https://www.linkedin.com/in/giovannalinda"/>
+  </a>
+</p>
