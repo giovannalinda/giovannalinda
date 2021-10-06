@@ -17,11 +17,11 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/_gripada" alt="Instagram">
+  <a href="https://www.instagram.com/_gripada" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=6F2BFF&link=https://www.instagram.com/_gripada/"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/giovannalinda" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/giovannalinda" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=6F2BFF&link=https://www.linkedin.com/in/giovannalinda"/>
   </a>
 </p>
