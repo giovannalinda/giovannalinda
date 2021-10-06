@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  :purple_heart: Hi, my name is Giovanna. I'm <strong>Front end Developer Jr.</strong> and I'm looking to improve on <strong>UI Design</strong>.
+  :purple_heart: Hi, my name is Giovanna. I'm <strong>Front end Developer</strong> and I'm looking to improve on <strong>UI Design</strong>.
 </p>
 
 <p align="left">
-  :computer: Technologies I study: <strong>HTML, CSS, JavaScript, ReactJS, Styled Components and TypeScript.</strong>
+  :computer: Technologies I study: <strong>HTML, CSS, JavaScript, TypeScript and React.</strong>
 </p>
 
 <p align="left">
-  :hammer_and_wrench: Tools: <strong>VSCode, Figma, Vercel, Git and GitHub.</strong>
+  :hammer_and_wrench: Tools: <strong>VSCode and Figma.</strong>
 </p>
 
 <p align="left">
@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-<em>Nossos sonhos podem se realizar, se tivermos a coragem de persegui-los.</em> - Walt Disney
+<em>All our dreams can come true, if we have the courage to pursue them.</em> - Walt Disney
 </p>
