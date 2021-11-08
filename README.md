@@ -24,7 +24,10 @@
   <a href="https://www.linkedin.com/in/giovannalinda" alt="Linkedin" target=_blank>
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=6F2BFF&link=https://www.linkedin.com/in/giovannalinda"/>
   </a>
-</p>
+  
+  <a href="mailto:eugiovannasouza@gmail.com" alt="gmail">
+    <img src="https://img.shields.io/badge/-gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=6F2BFF&link=mailto:gustavohenri316@gmail.com"/>
+  </a>
 
 <p align="center">
 <em>All our dreams can come true, if we have the courage to pursue them.</em> - Walt Disney
