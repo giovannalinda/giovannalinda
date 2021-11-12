@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🎯 I've been studying: TypeScript, Redux and Tests.
+  🎯 I've been studying: <strong>TypeScript, Redux and Tests.</strong>
 </p>
 
 <p align="left">
