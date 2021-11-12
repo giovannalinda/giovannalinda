@@ -9,6 +9,10 @@
 </p>
 
 <p align="left">
+  🎯 I've been studying: TypeScript, Redux and Tests.
+</p>
+
+<p align="left">
   :hammer_and_wrench:  Tools: <strong>VSCode and Figma.</strong>
 </p>
 
