@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  :computer:  Technologies I use: <strong>HTML, CSS, JavaScript, TypeScript and React.</strong>
+  :computer:  Technologies I use: <strong>HTML, CSS, JavaScript and React.</strong>
 </p>
 
 <p align="left">
