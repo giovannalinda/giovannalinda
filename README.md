@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
-
-<p align="left"> 
-  :purple_heart:  Hi, my name is Giovanna. I'm <strong>Front end Developer</strong> and I'm looking to improve on <strong>UI Design</strong>.
-</p>
+    
+    💜 Hi, my name is Giovanna. I'm Front end Developer, nice to meet you 
+    
 
 <p align="left">
   :computer:  Technologies I use: <strong>HTML, CSS, JavaScript and React.</strong>
