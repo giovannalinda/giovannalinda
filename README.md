@@ -3,7 +3,7 @@
     
     
 <p align="left">
-    💜 Hi, my name is Giovanna. I'm <strong>Front end Developer</strong>, nice to meet you! 
+    💜 Hi! I'm Giovanna. I'm <strong>Front end Developer</strong>, nice to meet you! 
 </p>
 
 <p align="left">
