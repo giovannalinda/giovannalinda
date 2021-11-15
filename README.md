@@ -1,7 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
     
-    💜 Hi, my name is Giovanna. I'm Front end Developer, nice to meet you 
     
+    
+<p align="left">
+    💜 Hi, my name is Giovanna. I'm <strong>Front end Developer</strong>, nice to meet you! 
+</p>
 
 <p align="left">
   :computer:  Technologies I use: <strong>HTML, CSS, JavaScript and React.</strong>
