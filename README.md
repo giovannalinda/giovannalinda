@@ -35,6 +35,6 @@
     <img src="https://img.shields.io/badge/-gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=6F2BFF&link=mailto:gustavohenri316@gmail.com"/>
   </a>
 
-<p align="center">
-<em>All our dreams can come true, if we have the courage to pursue them.</em> - Walt Disney
-</p>
+
+> All our dreams can come true, if we have the courage to pursue them. - Walt Disney
+
