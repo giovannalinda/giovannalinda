@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🎯 I've been studying: <strong>TypeScript, Redux and Tests.</strong>
+  🎯 I've been studying: <strong>TypeScript, Redux, Next and Tests.</strong>
 </p>
 
 <p align="left">
