@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  🎯 I've been studying: <strong>TypeScript, Redux, Next and Tests.</strong>
+  🎯 I've been studying: <strong>TypeScript and Tests.</strong>
 </p>
 
 <p align="left">
-  :hammer_and_wrench:  Tools: <strong>VSCode and Figma.</strong>
+  :hammer_and_wrench:  Tools: <strong>VSCode, Figma and Trello.</strong>
 </p>
 
 <p align="left">
