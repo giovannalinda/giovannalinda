@@ -34,6 +34,14 @@
   <a href="mailto:eugiovannasouza@gmail.com" alt="gmail">
     <img src="https://img.shields.io/badge/-gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=6F2BFF&link=mailto:gustavohenri316@gmail.com"/>
   </a>
+    
+ <a href="https://giovannalinda.vercel.app" alt="Blog" target=_blank>
+ <img src="https://img.shields.io/badge/Blog-1C1C1C?style=for-the-badge&logo=react&logoColor=6F2BFF&link=https://giovannalinda.vercel.app"/>
+ </a>      
+    
+ <a href="https://twitter.com/gripada_" alt="Twitter" target=_blank>
+    <img src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=6F2BFF&link=https://twitter.com/gripada_"/>
+ </a>
 
 
 > All our dreams can come true, if we have the courage to pursue them. - Walt Disney
