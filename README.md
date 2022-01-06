@@ -3,7 +3,13 @@
     
     
 <p align="left">
-    💜 Hi! I'm Giovanna. I'm <strong>Front end Developer</strong>, nice to meet you! 
+    💜 Hi! I'm Giovanna, I'm 18 years old and I'm <strong>Front end Developer</strong>, nice to meet you!
+</p>
+
+<p align="left">
+Why did I choose development?
+    
+Ah… because it's amazing, the amount of things that can be created and learned makes me excited and the feeling of having learned something new and useful is unparalleled. I'm the type of person who always tries to be better than the day before and have continuous growth.
 </p>
 
 <p align="left">
