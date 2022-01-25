@@ -17,7 +17,7 @@ Ah… because it's amazing, the amount of things that can be created and learned
 </p>
 
 <p align="left">
-  🎯 I've been studying: <strong>TypeScript and Unitary Tests.</strong>
+  🎯 I've been studying: <strong>TypeScript, React Native and Unitary Tests.</strong>
 </p>
 
 <p align="left">
