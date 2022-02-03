@@ -7,9 +7,11 @@
 </p>
 
 <p align="left">
+I'm a Front-end developer who always seeks to be better than the day before, to have continuous growth and impact people's lives.
+
 Why did I choose development?
     
-Ah… because it's amazing, the amount of things that can be created and learned makes me excited and the feeling of having learned something new and useful is unparalleled. I'm the type of person who always tries to be better than the day before and have continuous growth.
+Ah… because it's amazing, the amount of things that can be created and the impact it can have on people's lives makes me excited and the feeling of having learned something is unparalleled.
 </p>
 
 <p align="left">
@@ -51,4 +53,3 @@ Ah… because it's amazing, the amount of things that can be created and learned
 
 
 > All our dreams can come true, if we have the courage to pursue them. - Walt Disney
-
