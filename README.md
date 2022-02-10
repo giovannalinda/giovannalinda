@@ -1,6 +1,6 @@
 # Giovanna Linda
 
-Front-end Developer 💜
+Front-end Developer 💜 Have a project in mind? Send me a message!
 
 [![Twitter Badge](https://img.shields.io/badge/-@gripada_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/gripada_)](https://twitter.com/gripada_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Giovanna%20Linda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannalinda)](https://www.linkedin.com/in/giovannalinda) 
