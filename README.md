@@ -2,6 +2,7 @@
 
 Front-end Developer 💜 Have a project in mind? Send me a message!
 
+[![Site Badge](https://img.shields.io/badge/-giovanna.dev-6633cc?style=flat-square&logo=react&logoColor=white&labelColor=6633cc&link=https://giovanna-dev.vercel.app)](https://giovanna-dev.vercel.app) 
 [![Twitter Badge](https://img.shields.io/badge/-@gripada_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/gripada_)](https://twitter.com/gripada_) 
 [![Linkedin Badge](https://img.shields.io/badge/-Giovanna%20Linda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannalinda)](https://www.linkedin.com/in/giovannalinda) 
 [![Instagram Badge](https://img.shields.io/badge/-@giovannalinda-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/_gripada)](https://www.instagram.com/_gripada) 
