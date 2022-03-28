@@ -8,7 +8,7 @@ Front-end developer, geek and gamer in the free time 💜 Have a project in mind
 [![Site Badge](https://img.shields.io/badge/-giovanna.dev-6633cc?style=flat-square&logo=react&logoColor=white&labelColor=6633cc&link=https://giovanna-dev.vercel.app)](https://giovanna-dev.vercel.app) 
 [![Twitter Badge](https://img.shields.io/badge/-Giovanna%20Linda-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/gripada_)](https://twitter.com/gripada_) 
 [![Instagram Badge](https://img.shields.io/badge/-@giovannalinda-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/_gripada)](https://www.instagram.com/_gripada)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiovannalinda&count_bg=%236633CC&title_bg=%236633CC&icon=&icon_color=%23E7E7E7&title=View+profile&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiovannalinda&count_bg=%236633CC&title_bg=%236633CC&icon=&icon_color=%23E7E7E7&title=View+profile&edge_flat=true)](https://hits.seeyoufarm.com)
 
 Always looking to be better than the day before, have continuous growth and impact people's lives
 
