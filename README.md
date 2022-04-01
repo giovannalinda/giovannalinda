@@ -1,6 +1,6 @@
 # Giovanna Linda
 
-Front-end developer, geek and gamer in the free time 💜 Have a project in mind? Send me a message!
+Front-end Developer, passionate about life, with a sparkle in her eye and who cares about every detail 💜
 
 [![Medium Badge](https://img.shields.io/badge/-Giovanna%20Linda-6633cc?style=flat-square&logo=Medium&logoColor=white&link=mailto:https://medium.com/@eugiovannasouza)](https://medium.com/@eugiovannasouza)
 [![Linkedin Badge](https://img.shields.io/badge/-Giovanna%20Linda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannalinda)](https://www.linkedin.com/in/giovannalinda) 
