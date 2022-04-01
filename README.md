@@ -1,4 +1,4 @@
-# Giovanna Linda
+
 
 Front-end Developer, passionate about life, with a sparkle in her eye and who cares about every detail 💜
 
