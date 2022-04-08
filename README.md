@@ -1,6 +1,6 @@
 
 
-Front-end Developer, passionate about life, with a sparkle in her eye and who cares about every detail 💜
+Front-end Developer, Technology and Design enthusiast, with a sparkle in his eye and who cares about every detail 💜
 
 [![Medium Badge](https://img.shields.io/badge/-Giovanna%20Linda-6633cc?style=flat-square&logo=Medium&logoColor=white&link=mailto:https://medium.com/@eugiovannasouza)](https://medium.com/@eugiovannasouza)
 [![Linkedin Badge](https://img.shields.io/badge/-Giovanna%20Linda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannalinda)](https://www.linkedin.com/in/giovannalinda) 
