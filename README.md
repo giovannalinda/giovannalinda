@@ -1,18 +1,9 @@
+Sou fundadora da Explow, um studio especializado em desenvolver experiências digitais singulares através do design e tecnologia. Muito prazer!
 
+Nossa missão é impulsionar sua marca, aumentar seu alcance e melhorar a experiência dos seus usuários, e não paramos até entregar um resultado nada menos que excelente.
 
-Front-end Developer, Technology and Design enthusiast, with a sparkle in the eyes and who cares about every detail 💜
+Importante lembrar que por trás de todo negócio de sucesso, existe um time de sucesso. E o meu, é movido por mentes inquietas e criativas que querem fazer a diferença e deixar a nossa marca no mercado.
 
-[![Medium Badge](https://img.shields.io/badge/-Giovanna%20Linda-6633cc?style=flat-square&logo=Medium&logoColor=white&link=mailto:https://medium.com/@eugiovannasouza)](https://medium.com/@eugiovannasouza)
-[![Linkedin Badge](https://img.shields.io/badge/-Giovanna%20Linda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannalinda)](https://www.linkedin.com/in/giovannalinda) 
-[![Gmail Badge](https://img.shields.io/badge/-eugiovannasouza@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eugiovannasouza@gmail.com)](mailto:eugiovannasouza@gmail.com)
-[![Site Badge](https://img.shields.io/badge/-giovanna.dev-6633cc?style=flat-square&logo=react&logoColor=white&labelColor=6633cc&link=https://eugiovannasouza-dev.vercel.app)](https://eugiovannasouza-dev.vercel.app)
-[![Instagram Badge](https://img.shields.io/badge/-@oigiovannasouza-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/oigiovannasouza)](https://www.instagram.com/oigiovannasouza)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiovannalinda&count_bg=%236633CC&title_bg=%236633CC&icon=&icon_color=%23E7E7E7&title=View+profile&edge_flat=true)](https://hits.seeyoufarm.com)
-
-Always looking to be better than the day before, have continuous growth and impact people's lives
-
-I work using technologies like <strong>React and TypeScript</strong> and I'm looking forward to new experiences with them.
-
-I chose development because it's amazing, the amount of things that can be created and the impact it can have on people's lives makes me excited.
+Se você está buscando uma parceria de confiança para elevar a presença digital da sua marca, estamos aqui para isso.
     
 > All our dreams can come true, if we have the courage to pursue them. - Walt Disney
